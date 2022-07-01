@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.exe
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.deps.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\refint\DayOfTheWeek.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\DayOfTheWeek\obj\Debug\net6.0\ref\DayOfTheWeek.dll

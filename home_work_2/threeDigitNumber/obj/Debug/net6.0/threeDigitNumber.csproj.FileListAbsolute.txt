@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\bin\Debug\net6.0\threeDigitNumber.exe
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\bin\Debug\net6.0\threeDigitNumber.deps.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\bin\Debug\net6.0\threeDigitNumber.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\bin\Debug\net6.0\threeDigitNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\bin\Debug\net6.0\threeDigitNumber.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\refint\threeDigitNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\threeDigitNumber.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\threeDigitNumber\obj\Debug\net6.0\ref\threeDigitNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\bin\Debug\net6.0\anyNumber.exe
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\bin\Debug\net6.0\anyNumber.deps.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\bin\Debug\net6.0\anyNumber.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\bin\Debug\net6.0\anyNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\bin\Debug\net6.0\anyNumber.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\refint\anyNumber.dll
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.pdb
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\anyNumber.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашние работы\home_work_2\anyNumber\obj\Debug\net6.0\ref\anyNumber.dll
